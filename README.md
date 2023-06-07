@@ -8,8 +8,6 @@ Para rodar esse projeto na sua máquina, por favor digite:
 node app.js
 ```
 
-:)
-
 # Índice 
 
 * [Título e Imagem de capa](#Título-e-Imagem-de-capa)
