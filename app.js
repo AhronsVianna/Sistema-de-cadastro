@@ -3,3 +3,4 @@ console.log("aplicação está se conectando ao banco de dados")
 // mais um console log teste
 console.log("O Lucas, fingindo ser outra pessoa, fez esse commit sem você ver na aula")
 console.log("Enviando para o gitHub")
+conole.log("Testando o que estou fazendo")
